@@ -1,0 +1,20 @@
+{
+  "groups": [
+    {
+      "name": "data-masking",
+      "type": "com.github.hongshu.datamasking.configuration.DataMaskingProperties",
+      "sourceType": "com.github.hongshu.datamasking.configuration.DataMaskingProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "data-masking.enable",
+      "type": "java.lang.Boolean",
+      "description": "数据脱敏开关.",
+      "sourceType": "com.github.hongshu.datamasking.configuration.DataMaskingProperties",
+      "defaultValue": false
+    }
+  ],
+  "hints": [
+  ]
+}

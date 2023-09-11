@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "data-masking.enable",
+      "type": "java.lang.Boolean",
+      "description": "数据脱敏开关."
+    }
+  ]
+}

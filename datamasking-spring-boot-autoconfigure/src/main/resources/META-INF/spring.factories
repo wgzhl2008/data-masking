@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.hongshu.datamasking.configuration.DataMaskingAutoConfiguration
+#org.springframework.context.ApplicationContextInitializer=\
+#  handler.com.github.hongshu.datamasking.FilterResponseBodyAdvice
